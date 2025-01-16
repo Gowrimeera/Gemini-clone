@@ -48,7 +48,7 @@ A modern web application inspired by Google's Gemini, built using **HTML**, **CS
 
 ## 🌐 Live Demo  
 
-[Gemini Clone Demo](#) (Add link to your live demo if hosted)
+[Gemini Clone Demo](#) (https://gowrimeera.github.io/Gemini-clone/)
 
 ---
 
